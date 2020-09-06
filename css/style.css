@@ -718,7 +718,7 @@ h1, h2, h3, h4, h5,
     border-width: 2px; }
 
 .site-section {
-  padding: 4em 0; }
+  padding: 5em 0; }
   @media (max-width: 991.98px) {
     .site-section {
       padding: 4em 0; } }
@@ -928,7 +928,7 @@ h1, h2, h3, h4, h5,
       background-color: #352961; }
 
 .footer-section {
-  padding: 7em 0; }
+  padding: 2em 0; }
   .footer-section p {
     font-size: 1rem; }
   .footer-section h3 {

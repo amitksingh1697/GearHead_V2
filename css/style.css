@@ -691,8 +691,8 @@ h1, h2, h3, h4, h5,
 .intro-section {
   position: relative; }
   .intro-section, .intro-section .container .row {
-    height: 100vh;
-    min-height: 1200px; }
+    height: 65vh;
+    min-height: 1000px; }
   .intro-section:before {
     content: "";
     position: absolute;
